@@ -1,4 +1,4 @@
-package Day3;
+package Functions;
 
 public class Scope {
     public static void main(String[] args) {

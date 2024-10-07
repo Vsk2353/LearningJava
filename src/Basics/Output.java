@@ -1,4 +1,4 @@
-package Day1;
+package Basics;
 
 public class Output{
     public static void main(String[] args) { //(shortcut: psvm)

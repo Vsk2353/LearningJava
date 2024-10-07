@@ -1,4 +1,4 @@
-package Day3;
+package Functions;
 
 public class Shadowing {
     static int x = 10; // this will be shadowed at line 9

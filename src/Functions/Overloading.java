@@ -1,4 +1,4 @@
-package Day3;
+package Functions;
 
 public class Overloading {
     public static void main(String[] args) {

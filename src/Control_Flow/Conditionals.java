@@ -1,4 +1,4 @@
-package Day2;
+package Control_Flow;
 public class Conditionals{
     public static void main(String[] args){
 

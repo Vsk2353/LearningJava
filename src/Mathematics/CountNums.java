@@ -1,4 +1,4 @@
-package Day2;
+package Mathematics;
 
 public class CountNums {
     public static void main(String[] args) {

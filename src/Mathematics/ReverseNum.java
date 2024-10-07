@@ -1,4 +1,4 @@
-package Day2;
+package Mathematics;
 import java.util.Scanner;
 
 public class ReverseNum {
