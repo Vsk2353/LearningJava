@@ -15,5 +15,5 @@ public class Shadowing {
 }
 /*
 So shadowing means, an object declared in a higher scope will be hidden when the same object is
-initialized again in a lower scope and we print it in this scope.
+initialized again in a lower scope, and we print it in this scope.
  */
