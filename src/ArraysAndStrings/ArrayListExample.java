@@ -29,3 +29,11 @@ public class ArrayListExample {
         }
     }
 }
+
+/*
+Internally, the size is fixed
+Say arraylist fills by some amount
+A new arraylist is created in which old one is copied
+into the new one by doubling the size each time.
+
+ */
