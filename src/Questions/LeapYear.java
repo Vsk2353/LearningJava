@@ -14,3 +14,18 @@ public class LeapYear {
         }
     }
 }
+
+/*
+HCF(a,b)=HCF(b,a%b)
+
+public static int hcf(int a, int b) {
+    while (b != 0) {         // Repeat until remainder becomes 0
+        int temp = b;        // Temporarily store b
+        b = a % b;           // Replace b with remainder of a divided by b
+        a = temp;            // Replace a with the previous value of b
+    }
+    return a;                // When b becomes 0, a is the HCF
+}
+
+
+ */
